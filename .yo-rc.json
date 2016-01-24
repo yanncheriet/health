@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "health",
+    "packageName": "org.jhispter.health",
+    "packageFolder": "org/jhispter/health",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "6ded1c7310b63680c905b0eda73addeefe250536",
+    "testFrameworks": [
+      "cucumber"
+    ]
+  }
+}
